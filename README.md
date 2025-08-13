@@ -32,9 +32,7 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [📊 YouTube Thumbnail Optimizer](https://github.com/shubhamragade/youtube-thumbnail-optimizer) | Predicts best-performing thumbnails using ML and user feedback | `Python`, `Scikit-learn`, `Flask`, `MLflow`, `SQLite` |
 | [🧠 Face Recognition Intruder Alert](https://github.com/shubhamragade/face-recognition-alert) | Real-time face recognition and intruder alert system | `OpenCV`, `Python`, `SMTP`, `NumPy` |
-| [🛒 E-commerce Website](https://github.com/shubhamragade/ecommerce-platform) | Custom e-commerce web app | `HTML`, `CSS`, `JS`, `MySQL`, `Flask` |
 | [📈 GDP Analysis with Data Science](https://github.com/shubhamragade/gdp-analysis) | Exploratory data analysis on GDP per capita | `Pandas`, `Seaborn`, `Matplotlib`, `Jupyter` |
 
 ---
