@@ -30,10 +30,14 @@
 
 ## 🚀 Projects
 
+## 🚀 My Projects
+
 | Project | Description | Tech Stack |
-|--------|-------------|------------|
+|----------|--------------|-------------|
 | [🧠 Face Recognition Intruder Alert](https://github.com/shubhamragade/face-recognition-alert) | Real-time face recognition and intruder alert system | `OpenCV`, `Python`, `SMTP`, `NumPy` |
-| [📈 GDP Analysis with Data Science](https://github.com/shubhamragade/gdp-analysis) | Exploratory data analysis on GDP per capita | `Pandas`, `Seaborn`, `Matplotlib`, `Jupyter` |
+| [📈 Risk Analytics in Banking and Financial Services](https://github.com/shubhamragade/Risk-Analytics-in-Banking-and-Financial-Services) | Risk analytics project focused on identifying and mitigating financial risks using ML | `Pandas`, `Seaborn`, `Matplotlib`, `Jupyter`, `ML algorithms`, `Flask` |
+| [🍽️ Food Demand Forecasting](https://github.com/shubhamragade/FoodDemandForecasting) | Predicts future meal demand at fulfillment centers using historical data and a modern web UI | `FastAPI`, `Bootstrap 5`, `Pandas`, `Jinja2`, `Uvicorn` |
+| [🧭 Local Services RAG Assistant](https://github.com/shubhamragade/rag-local-services) | RAG-based assistant to find nearby electricians, plumbers, and other local services using embeddings and LLMs | `LangChain`, `ChromaDB`, `HuggingFace`, `ChatGroq`, `Python` |
 
 ---
 
