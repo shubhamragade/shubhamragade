@@ -45,38 +45,32 @@ class ShubhamRagade:
 
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
-### 🏢 Mhaske Technologies Pvt. Ltd.
-**`AI/ML Intern`** · Mar 2025 – Sep 2025 · Aurangabad
+### 🏢 Smart Software Services Pvt Ltd.
+**`Data Scientist | AIML Engineer`** · Aug 2024 – Present · Onsite
 
-- Delivered production ML pipelines: preprocessing → feature engineering → training → FastAPI deployment
-- Built a centralized construction management platform with **React + Django** for real-time project, document & finance tracking
-
-</td>
-<td width="50%">
-
-### 🎓 Edunet Foundation (AICTE)
-**`AI Intern`** · Dec 2024 – Feb 2025 · Remote
-
-- Implemented ML workflows, data preprocessing pipelines, and API integrations
-- Worked on real-world problem statements under expert mentorship
+- Engineered enterprise-scale GenAI applications using LLMs, LangChain, RAG pipelines, and Vector Databases for intelligent enterprise automation
+- Built and deployed AI chatbots using **OpenAI APIs, Pinecone, and FastAPI**, reducing manual customer support workload by **45%**
+- Fine-tuned transformer-based language models using **LoRA/QLoRA**, improving domain-specific response relevance by **30%**
+- Architected end-to-end MLOps pipelines using **MLflow, Docker, and AWS SageMaker** for scalable AI deployment and monitoring
+- Automated ETL and real-time data workflows using **Apache Airflow**, reducing processing time by **50%**
 
 </td>
 </tr>
 <tr>
-<td colspan="2">
+<td width="100%">
 
-### 💻 Coreline IT Solutions — Freelance
-**`Automated Voter Data Extractor`** · Sep 2025 – Oct 2025 · Remote
+### 🎓 Smart Software Services Pvt Ltd.
+**`Generative AI & Data Science Intern`** · Nov 2023 – Feb 2024 · Remote
 
-Built an end-to-end automated voter data extraction system using **Python + Azure AI Vision OCR + GPT-4** for Marathi PDFs → structured JSON/CSV/Excel export. Parallel batch-processing pipeline reduced processing time by **40%**.
+- Developed GenAI applications using LLMs, LangChain, and RAG pipelines; contributed to NLP solutions including semantic search and text summarization
+- Supported ML model development, feature engineering, and data preprocessing workflows for predictive analytics
+- Integrated AI models with **FastAPI-based microservices**; worked with MLflow, Docker, and AWS SageMaker for deployment workflows
 
 </td>
 </tr>
 </table>
-
----
 
 ## `> ls projects/`
 
