@@ -61,7 +61,7 @@ class ShubhamRagade:
 <td width="100%">
 
 ### 🎓 Smart Software Services Pvt Ltd.
-**`Generative AI & Data Science Intern`** · Nov 2023 – Feb 2024 · Remote
+**`Generative AI & Data Science Intern`** · Apr 2024 – Aug 2024 · Remote
 
 - Developed GenAI applications using LLMs, LangChain, and RAG pipelines; contributed to NLP solutions including semantic search and text summarization
 - Supported ML model development, feature engineering, and data preprocessing workflows for predictive analytics
