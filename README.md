@@ -46,9 +46,8 @@ class ShubhamRagade:
 <tr>
 <td width="100%">
 
-### 🏢 Smart Software Services Pvt Ltd.
-**`Data Scientist | AIML Engineer`** · Aug 2024 – Present · Onsite
 
+**`Data Scientist | AIML Engineer`** 
 - Engineered enterprise-scale GenAI applications using LLMs, LangChain, RAG pipelines, and Vector Databases for intelligent enterprise automation
 - Built and deployed AI chatbots using **OpenAI APIs, Pinecone, and FastAPI**, reducing manual customer support workload by **45%**
 - Fine-tuned transformer-based language models using **LoRA/QLoRA**, improving domain-specific response relevance by **30%**
@@ -60,8 +59,7 @@ class ShubhamRagade:
 <tr>
 <td width="100%">
 
-### 🎓 Smart Software Services Pvt Ltd.
-**`Generative AI & Data Science Intern`** · Apr 2024 – Aug 2024 · Remote
+**`Generative AI & Data Science Intern`** · 
 
 - Developed GenAI applications using LLMs, LangChain, and RAG pipelines; contributed to NLP solutions including semantic search and text summarization
 - Supported ML model development, feature engineering, and data preprocessing workflows for predictive analytics
