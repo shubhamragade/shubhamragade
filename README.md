@@ -30,8 +30,8 @@ class ShubhamRagade:
         self.focus      = ["LLMs", "Multi-Agent Systems", "RAG Pipelines",
                            "Voice AI", "MLOps", "Production AI Apps"]
         self.building   = ["ChatCommerce AI (Ongoing)", "Voice Cloning with Qwen3-TTS"]
-        self.experience = ["AI/ML Engineer @ Smart Software Services Pvt Ltd",
-                           "AI Intern @ Smart Software Services Pvt Ltd",]
+        self.experience = ["AI/ML Engineer",
+                           "AI Intern",]
         self.contact    = "shubhamragade25@gmail.com"
 
     def philosophy(self):
